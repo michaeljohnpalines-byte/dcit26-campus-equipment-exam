@@ -18,3 +18,4 @@ export default function EquipmentCard({ item }) {
     </article>
   );
 }
+

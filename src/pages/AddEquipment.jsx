@@ -68,3 +68,4 @@ export default function AddEquipment({ onAddEquipment }) {
     </section>
   );
 }
+
